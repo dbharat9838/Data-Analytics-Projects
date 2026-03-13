@@ -1,6 +1,6 @@
 📊 Data Analytics Portfolio – Doda Bharat Reddy
 
-Welcome to my Data Analytics project repository.
+Welcome to my Data Analytics Portfolio showcasing projects in data analysis, visualization, and business insights.
 
 This repository showcases multiple projects demonstrating my skills in data analysis, visualization, and business insights using modern analytics tools.
 
@@ -96,7 +96,7 @@ Features
 
 👨‍💻 Author
 
-Doda Bharat Reddy
+Doda Bharat Reddy  
 BBA Graduate | Aspiring Data Analyst
 
 Skills:
